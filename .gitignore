@@ -1,0 +1,11 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Databases stay on this computer, never on GitHub
+*.duckdb
+*.duckdb.wal
